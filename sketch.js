@@ -57,7 +57,7 @@ function draw() {
   pop();
 
   stroke(150,255,100);
-  var end3 = map(hr % 12,0,24,0,360);
+  var end3 = map(hr,0,24,0,360);
   arc(0, 0, 340,340,0, end3);
 
   push();
