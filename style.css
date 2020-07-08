@@ -12,6 +12,12 @@ body {
   background: #091921;
 
 }
+.txt{
+  font-size: 30px;
+  position: absolute;
+  top: 200px;
+  left: 450px;
+}
 .clock{
   width: 350px;
   height: 350px;

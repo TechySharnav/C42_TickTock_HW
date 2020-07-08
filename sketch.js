@@ -10,8 +10,16 @@ function setup() {
 
 function draw() {
   background("#091921");
+
+  textSize(35);
+  fill("white");
+  text("Full Javascript", 290, 150);
+
   translate(400,400);
   rotate(-90);
+
+
+
 
   setInterval(() =>{
 
